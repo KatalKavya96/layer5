@@ -17,8 +17,10 @@ const contents = [
   { id: 4, link: "#SocialMedia", text: "Recognition on Social Media Platforms" },
 ];
 
+
 const badgeListStyle = { listStyleType: "none", paddingLeft: 0, marginLeft: 0 };
 const recognitionsstyle = { marginBottom: "0.5rem" };
+
 
 const RecognitionPage = () => {
   return (
